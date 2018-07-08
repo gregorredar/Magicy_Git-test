@@ -1,3 +1,6 @@
 # Magicy_Git-test
 
-gregorredar
+Lista obecności
+1. Mery Wich - jestem!
+2. Krzysiek - nieobecny!
+3. gregorredar
