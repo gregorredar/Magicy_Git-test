@@ -5,5 +5,5 @@
 
 Lista obecności
 1. Mery Wich - jestem!
-2. Artur nr 1 z inteliji 2 na develop
+2. Artur nr 1 z inteliji 3 na develop
 >>>>>>> Stashed changes
