@@ -2,3 +2,4 @@
 
 Lista obecności
 1. Mery Wich - jestem!
+2. Krzysiek - nieobecny!
